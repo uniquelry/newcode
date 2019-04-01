@@ -1,4 +1,4 @@
-package youzan.java2019A;
+package youzan.java2019a;
 
 import java.util.Scanner;
 
